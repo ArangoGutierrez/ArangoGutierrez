@@ -6,19 +6,20 @@ Environmental engineer lost to distributed systems and Cloud Computing.
 ---
 
 <table>
-    <tr>
-    	<td>
+	<tr>
+    		<td>
 			<a href="https://twitter.com/CarlosEArango/">
-				<img align="right" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
 			</a>
 		</td>
-    </tr>
+    	</tr>
 	<tr>
-        <td>
+        	<td>
 			<a href="https://twitter.com/CarlosEArango/">
 				<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArangoGutierrez"></img>
 			</a>
 		</td>
+	</tr>
 </table>
 
 
