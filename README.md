@@ -14,7 +14,7 @@ Environmental engineer lost to distributed systems and Cloud Computing.
 </a>
 
 ---
-**📫 How to Reach me:**
+### 📫 How to Reach me:
 <p align="left">
 <a href="https://twitter.com/CarlosEarango" target="blank"><img align="center" src="https://raw.githubusercontent.com/ArangoGutierrez/ArangoGutierrez/master/assets/twitter.svg" alt="ArangoGutierrez" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/eduardo-arango" target="blank"><img align="center" src="https://raw.githubusercontent.com/ArangoGutierrez/ArangoGutierrez/master/assets/linkedin.svg" alt="ArangoGutierrez" height="30" width="30" /></a>
