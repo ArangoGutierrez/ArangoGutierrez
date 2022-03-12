@@ -4,14 +4,23 @@ Environmental engineer lost to distributed systems and Cloud Computing.
 
 <!--   GitHub stats graph -->
 ---
-### 📈 GitHub Activity Graph:
-<a href="https://twitter.com/CarlosEArango/">
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
-</a>
 
-<a href="https://twitter.com/CarlosEArango/">
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArangoGutierrez"></img>
-</a>
+<table>
+    <tr>
+    	<td>
+			<a href="https://twitter.com/CarlosEArango/">
+				<img align="right" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
+			</a>
+		</td>
+    </tr>
+	<tr>
+        <td>
+			<a href="https://twitter.com/CarlosEArango/">
+				<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArangoGutierrez"></img>
+			</a>
+		</td>
+</table>
+
 
 ---
 ### 📫 How to Reach me:
