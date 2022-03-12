@@ -6,9 +6,9 @@ Environmental engineer lost to distributed systems and Cloud Computing.
 ---
 ### 📈 GitHub Activity Graph:
 <a href="https://twitter.com/CarlosEArango/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ArangoGutierrez&show_icons=true" />
 </a>
-<a href="https://twitter.com/dims/">
+<a href="https://twitter.com/CarlosEArango/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArangoGutierrez&hide=html,ruby" />
 </a>
 
