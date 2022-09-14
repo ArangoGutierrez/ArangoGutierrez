@@ -1,10 +1,10 @@
-## Eduardo Arango
+## Eduardo Arango Ph.D
 
 Hi all! 
 
 Thanks for your interest in my OpenSource efforts and adventures! 
 
-I am Eduardo Arango-Gutierrez (as my GitHub accounts reveals), born in Cali Colombia, now Living in Raleigh,NC USA. Certified Environmental engineer on 2013, I have been an active OpenSource contributor and maintainer since 2015, working to enable computational science for all of us. Since my first involvement in OpenSource I have always been a great believer that by bridging the gap between Cloud Computing and HPC we will open the door to more Scientist to run their mathematical simulations and data analysis in a better way than it is being done today.
+I am Eduardo Arango Gutierrez Ph.D (as my GitHub accounts reveals), born in Cali Colombia, now Living in Raleigh,NC USA. Certified Environmental engineer on 2013, and Computer Science Ph.D 2022, I have been an active OpenSource contributor and maintainer since 2015, working to enable computational science for all of us. Since my first involvement in OpenSource I have always been a great believer that by bridging the gap between Cloud Computing and HPC we will open the door to more Scientist to run their mathematical simulations and data analysis in a better way than it is being done today.
 
 Currently a full time maintainer for a couple project under kubernetes-sigs, looking to enable specialized hardware and workloads to kubernetes, so we all can make use of GPU's and fast networks with our beloved containers.
 
